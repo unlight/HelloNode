@@ -1,0 +1,5 @@
+{
+	// Simply using `node` without specifying a path sometimes doesn't work :(
+	// http://nodejs.org/#download
+	"node_path": "/usr/local/bin/node"
+}
